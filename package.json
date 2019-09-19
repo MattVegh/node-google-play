@@ -1,11 +1,11 @@
 {
   "name": "googleplay",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app"
+
   },
   "keywords": [],
   "author": "",
@@ -18,5 +18,14 @@
     "express": "^4.17.1",
     "moment": "^2.24.0",
     "morgan": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattVegh/node-google-play.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattVegh/node-google-play/issues"
+  },
+  "homepage": "https://github.com/MattVegh/node-google-play#readme",
+  "description": ""
 }
